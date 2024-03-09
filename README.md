@@ -1,2 +1,2 @@
 # odin-recipes
-This to demonstrate how to creat simple text websites using html. This learned from an assignment from the odin project
+This to demonstrate how to create simple text websites using html. This was learned from an assignment by the odin project
